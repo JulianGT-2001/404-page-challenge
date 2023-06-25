@@ -1,22 +1,26 @@
-body{
+html, body{ 
     box-sizing: border-box;
-    margin: 0;
-    font-family: 'Monserrat';
+    margin: 0; 
+    font-family: 'Monserrat'; 
+    min-height: 100vh;
+    min-width: 100vh;
 }
 
 main {
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .text-nav {
-    padding: 30px 0px 0px 70px;
+    padding: 10px 0px 0px 70px;
 }
 
-.text-nav > b {
+.text-nav > p {
     font-family: 'Inconsolata';
     font-weight: 700;
-    font-size: 25px;
+    font-size: 24px;
+    color: #333333;
 }
 
 .scarecrow {
@@ -27,32 +31,35 @@ main {
 
 .scarecrow > img {
     position: relative;
-    width: 70vh;
+    width: 539.22px;
+    height: 447.43px;
     bottom: 50px;
 }
 
 .error {
     margin-left: 150px;
     font-family: monospace;
-}
-
-.error-title {
-    width: 70%;
+    width: 30%;
 }
 
 .error-title > h3 {
     font-weight: 700;
-    font-size: 70px;
+    font-size: 64px;
+    line-height: 94.78px;
+    color: #333333;
 }
 
 .error-message {
     position: relative;
-    width: 45%;
+    width: 66%;
     bottom: 50px;
 }
 
 .error-message > p {
-    font-size: 30px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35.54px;
+    color: #4F4F4F;
 }
 
 .error-button > button {
@@ -73,5 +80,75 @@ footer {
 footer > .content {
     position:absolute;
     bottom: 0;
-    opacity: 0.3;
+    color: #BDBDBD;
+}
+
+@media only screen and (max-width: 320px){
+
+    html, body {
+        box-sizing: border-box;
+        margin: 0;
+        font-family: 'Monserrat';
+        min-height: 100vh;
+        min-width: 100vh;
+        position: relative;
+    }
+
+    main {
+        display: block;
+    }
+
+    .scarecrow {
+        margin-top: 200px;
+    }
+
+    .scarecrow > img {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        bottom: 50px;
+    }
+
+    .error {
+        font-family: monospace;
+        width: 100%;
+        margin-left: 50px;
+    }
+
+    .error-title > h3 {
+        font-weight: 700;
+        font-size: 100px;
+        line-height: 94.78px;
+        color: #333333;
+    }
+
+    .error-message {
+        position: relative;
+        width: 87%;
+        bottom: 50px;
+    }    
+
+    .error-message > p {
+        font-size: 42px;
+        font-weight: 400;
+        line-height: 70.54px;
+        color: #4F4F4F;
+    }
+
+    .error-button > button {
+        padding: 30px 40px;
+        background-color: #333333;
+        color: #fff;
+        font-family: monospace;
+        font-weight: 700;
+        font-size: 30px;
+    }
+
+    
+    footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100%;
+    }
 }
