@@ -48,7 +48,7 @@ La experiencia de este reto ha sido satisfactoria, he recordado conceptos basico
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-Esta aplicación/sitio se creó como una presentación para un desafío [DevChallenges](https://devchallenges.io/challenges). El [desafío](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir una aplicación para completar las historias de usuario dadas.
+Esta aplicación/sitio se creó como una presentación para un desafío [DevChallenges](https://devchallenges.io). El [desafío](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir una aplicación para completar las historias de usuario dadas.
 
 ## Contactos
 
