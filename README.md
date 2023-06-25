@@ -42,8 +42,8 @@ La experiencia de este reto ha sido satisfactoria, he recordado conceptos basico
 
 ### Construido con
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Caracteristicas
 
