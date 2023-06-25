@@ -52,6 +52,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contactos
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@JulianGT-2001](https://github.com/JulianGT-2001)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
