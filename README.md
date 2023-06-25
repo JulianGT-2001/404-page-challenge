@@ -26,10 +26,10 @@
 
 ## Table of Contents
 
-- [Overview](https://raw.githubusercontent.com/JulianGT-2001/404-page-challenge/main/Img/404-page.png)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
+- [Overview](#Previsualizacion)
+  - [Built With](#Construido-con)
+- [Features](#Caracteristicas)
+- [Contact](#contactos)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
