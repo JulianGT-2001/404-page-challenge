@@ -13,18 +13,18 @@
     </a>
     <span> | </span>
     <a href="https://{your-url-to-the-solution}">
-      Solution
+      Solucion
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+      Desafio
     </a>
   </h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Tabla de contenidos
 
 - [Previsualizacion](#Previsualizacion)
   - [Construido con](#Construido-con)
